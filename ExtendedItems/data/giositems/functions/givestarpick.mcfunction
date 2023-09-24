@@ -1,0 +1,4 @@
+recipe take @s starimbuedpick_recipe
+advancement revoke @s only giositems:starimbuedpick_advancement
+clear @s knowledge_book
+give @p netherite_pickaxe{Damage:1650,RepairCost:999999999999,display:{Name:'[{"text":"Nether Star imbued Netherite Pickaxe","italic":false,"bold":true,"color":"#e6dada"}]',Lore:['[{"text":"It took quite the damage, but the","italic":false,"bold":true,"color":"dark_gray"}]','[{"text":"pickaxe managed to survive. I","italic":false,"bold":true,"color":"dark_gray"}]','[{"text":"wonder how powerful it truly is...","italic":false,"bold":true,"color":"dark_gray"}]']},Enchantments:[{id:efficiency,lvl:8},{id:fire_aspect,lvl:4},{id:fortune,lvl:6},{id:unbreaking,lvl:8}]} 1

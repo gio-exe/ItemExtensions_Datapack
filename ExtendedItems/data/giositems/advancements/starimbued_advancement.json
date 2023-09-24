@@ -1,0 +1,14 @@
+{
+    "__comment": "Made by gio :D",
+    "criteria": {
+        "Immobility": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "minecraft:starimbued_recipe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "giositems:givestarsword"
+    }
+}

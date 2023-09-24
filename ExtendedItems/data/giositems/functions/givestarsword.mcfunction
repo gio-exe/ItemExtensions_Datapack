@@ -1,0 +1,4 @@
+recipe take @s starimbued_recipe
+advancement revoke @s only giositems:starimbued_advancement
+clear @s knowledge_book
+give @p netherite_sword{Damage:1981,RepairCost:99999999,display:{Name:'[{"text":"Nether Star imbued Netherite Sword","italic":false,"bold":true,"color":"#e6dada"}]',Lore:['[{"text":"Surprisingly enough, it survived","italic":false,"bold":true,"color":"dark_gray"}]','[{"text":"the star\'s power. You can feel its","italic":false,"bold":true,"color":"dark_gray"}]','[{"text":"energy pulsing through the sword...","italic":false,"bold":true,"color":"dark_gray"}]']},Enchantments:[{id:"fire_aspect",lvl:4},{id:"knockback",lvl:6},{id:"looting",lvl:4},{id:"sharpness",lvl:10},{id:"unbreaking",lvl:8}]} 1
