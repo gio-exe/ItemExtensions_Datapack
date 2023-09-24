@@ -5,5 +5,5 @@
 <p align="center"><b>Yes, of course! Just make sure to give proper credit.</b></p>
 <h3 align="center"><b>How do I craft the custom items?</b></h3>
 <p align="center"><b>There's a folder included in every one of my datapacks called "Recipes" that provides instructions on how to craft them</b></p>
-<h3 align="center">Are your datapacks compatible with each other?</h3>
+<h3 align="center">Is this datapack compatible with other ones you've made?</h3>
 <div align="center"><img align="center" src="https://i.ibb.co/xsvdT75/39hvucmkymma1.png" width="329" height="329"></div>
